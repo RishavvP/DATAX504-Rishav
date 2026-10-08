@@ -1,0 +1,10 @@
+.venv/
+data/
+cache/
+runs/
+nepal/*.tif
+smoke/
+smoke_run.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.pdf
